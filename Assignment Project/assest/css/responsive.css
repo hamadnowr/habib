@@ -1,0 +1,16 @@
+
+@media screen and (max-width:500px){
+  nav .menue{
+      display: none;
+  }
+  .header__navbar--toggle .nav-toggle{
+      display: block;
+  }
+  .coverimage{
+      width: 100%;
+  }
+  .covertable{
+      width: 100%;
+      margin: 20px;
+  }
+}

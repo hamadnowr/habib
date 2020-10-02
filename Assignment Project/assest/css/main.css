@@ -1,0 +1,74 @@
+.logo{
+    display: inline-block;
+}
+.continner{
+    padding-right: 5%;
+    padding-left: 5%;
+}
+header nav.nav{
+    margin: 20px;
+    padding: 20px;
+}
+header nav.nav ul{
+   display: inline-block;
+ margin-left: auto;
+ margin-bottom: 15px;
+ margin-top: -45px;
+}
+header nav.nav ul li{
+    display: inline-block;
+    padding: 20px;
+    font-size: 40px;
+    color: #525c65
+} 
+header nav.nav ul li a{
+    display: inline-block;
+font-size: 1rem;
+line-height: 2.0625rem;
+color: #525c65;
+text-transform: none;
+padding: 0.5rem;
+}
+.row{
+    width: 100%;
+}
+.col-md-4{
+    display: inline-block;
+ width: 32%;
+}
+.header__navbar--toggle {
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    float: left;
+    display: block;
+    margin-right: 1.69492%;
+    width: 15.25424%;
+}
+.header__navbar--toggle .nav-toggle{
+    display: none;
+    width: 1.25rem;
+    height: 1.25rem;
+    cursor: pointer;
+    transition: transform .25s ease;
+} 
+footer nav ul li{
+    list-style: none;
+    padding: 10px;
+text-align: left;
+}
+h3{
+    font-size: 18px;
+    font-weight: 200;
+    margin-left: 30px;
+    color: rgb(35, 137, 240);
+}
+footer nav ul li a{
+    color: rgb(144, 206, 235);
+}
+
+
